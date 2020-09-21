@@ -5,4 +5,5 @@ public class Orange extends Fruit{
     public Orange(Object апельсин) {
         super();
     }
+
 }
